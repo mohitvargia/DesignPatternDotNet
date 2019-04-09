@@ -1,2 +1,2 @@
-# DesignPatternC-
+# DesignPatternC#
 Design Pattern C#
